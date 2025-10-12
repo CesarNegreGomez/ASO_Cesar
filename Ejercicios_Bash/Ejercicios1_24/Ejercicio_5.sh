@@ -1,5 +1,3 @@
-Ejercicio 5.
---------------
 #!/bin/bash
 read -p "Introduce el primero numero: " num1
 read -p "Introduce el segundo numero: " num2

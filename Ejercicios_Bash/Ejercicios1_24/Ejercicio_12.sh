@@ -1,5 +1,3 @@
-Ejercicio 12.
---------------
 #!/bin/bash
 hora=$(date +%H)
 

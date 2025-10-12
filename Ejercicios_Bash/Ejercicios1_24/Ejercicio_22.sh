@@ -1,5 +1,3 @@
-Ejercicio 22.
---------------
 #!/bin/bash
 dir="$1"
 

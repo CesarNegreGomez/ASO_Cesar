@@ -1,5 +1,3 @@
-Ejercicio 17.
---------------
 #!/bin/bash
 suma=0
 while true; do

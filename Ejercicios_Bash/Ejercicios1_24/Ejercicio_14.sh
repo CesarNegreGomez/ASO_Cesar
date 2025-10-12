@@ -1,5 +1,3 @@
-Ejercicio 14.
---------------
 #!/bin/bash
 if [ $# -lt 4 ]; then
     echo "Error. La sintaxis correcta es ./gestionusuarios.sh alta/baja nombre apellido1 apellido2 [grupo]"

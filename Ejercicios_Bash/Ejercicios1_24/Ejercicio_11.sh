@@ -1,5 +1,3 @@
-Ejercicio 11.
---------------
 #!/bin/bash
 if [ $# -ne 2 ]; then
     echo "Error: Deben indicarse exactamente 2 parametros."

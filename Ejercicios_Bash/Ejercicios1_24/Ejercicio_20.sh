@@ -1,5 +1,3 @@
-Ejercicio 20.
---------------
 #!/bin/bash
 num="$1"
 

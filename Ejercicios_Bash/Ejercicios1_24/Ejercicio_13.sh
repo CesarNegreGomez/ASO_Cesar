@@ -1,5 +1,3 @@
-Ejercicio 13.
---------------
 #!/bin/bash
 ARCHIVO="lista.txt"
 

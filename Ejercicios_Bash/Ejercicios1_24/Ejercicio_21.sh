@@ -1,5 +1,3 @@
-Ejercicio 21.
---------------
 #!/bin/bash
 objetivo=42
 

@@ -1,5 +1,4 @@
-Ejercicio 9.
---------------
+#!/bin/bash
 echo "1) Sumar"
 echo "2) Restar"
 echo "3) Multiplicar"
